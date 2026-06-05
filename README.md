@@ -1,9 +1,3 @@
-## Backend Developer 조민기입니다
-...
-
-### Experience
-- 한세대학교 **Gamza** 10기 Backend <sub>(2025/09~2025/12)</sub>
-
 ### Project
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
